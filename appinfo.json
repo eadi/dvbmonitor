@@ -1,0 +1,85 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Sebastian Schneider",
+    "longName": "DVBMonitor",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/actionbar_overflow.png",
+                "name": "IMAGES_ACTIONBAR_OVERFLOW_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/actionbar_locate.png",
+                "name": "IMAGES_ACTIONBAR_LOCATE_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/actionbar_fav_on.png",
+                "name": "IMAGES_ACTIONBAR_FAV_ON_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/actionbar_fav_off.png",
+                "name": "IMAGES_ACTIONBAR_FAV_OFF_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/actionbar_refresh.png",
+                "name": "IMAGES_ACTIONBAR_REFRESH_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/actionbar_up.png",
+                "name": "IMAGES_ACTIONBAR_UP_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/actionbar_down.png",
+                "name": "IMAGES_ACTIONBAR_DOWN_PNG",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "DVBMonitor",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk",
+        "diorite",
+        "emery"
+    ],
+    "uuid": "5045d1ba-a779-4ba4-840d-299f1b5d131f",
+    "versionCode": 1,
+    "versionLabel": "2.2",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
